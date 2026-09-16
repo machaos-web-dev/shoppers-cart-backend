@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Dusk Reading Lamp",
+    "category": "Home",
+    "description": "Adjustable warm-white LED. Minimalist brass & marble base.",
+    "price": 5,
+    "tag": "Popular",
+    "image": "Images/Products/dusk-reading-lamp.jpg"
+  },
+  {
+    "id": "2",
+    "image": "Images/Products/White-Perfume.png",
+    "category": "Accessories",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Machaos white body spray",
+    "price": 49,
+    "tag": "Limited"
+  },
+  {
+    "id": "3",
+    "image": "Images/Products/Sunshades.png",
+    "category": "Lifestyle",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Sunshades",
+    "price": 20,
+    "tag": "Popular"
+  },
+  {
+    "id": "4",
+    "image": "Images/Products/Silver-watch.png",
+    "category": "Timepieces",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Machaos Co & Sons Watch",
+    "price": 109,
+    "tag": "New"
+  },
+  {
+    "id": "5",
+    "image": "Images/Products/Keyboard-with-blue-light.png",
+    "category": "Electronics",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Tolbell Keyboard",
+    "price": 29,
+    "tag": "Popular"
+  },
+  {
+    "id": "6",
+    "image": "Images/Products/Headset-with-purple-light.png",
+    "category": "Electronics",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Gaming Headset",
+    "price": 15,
+    "tag": "Bestseller"
+  },
+  {
+    "id": "7",
+    "image": "Images/Products/Cardigan.png",
+    "category": "Lifestyle",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Black Cardigan",
+    "price": 8,
+    "tag": "Bestseller"
+  },
+  {
+    "id": "8",
+    "image": "Images/Products/Black-orange-backpack.png",
+    "category": "Lifestyle",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "Machaos backpack",
+    "price": 10,
+    "tag": "Limited"
+  },
+  {
+    "id": "9",
+    "name": "Obsidian Chronos",
+    "category": "Timepieces",
+    "description": "Swiss movement, sapphire crystal glass, 42mm black PVD case.",
+    "price": 349,
+    "tag": "Bestseller",
+    "image": "Images/Products/obsidian-chronos.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Ember Leather Tote",
+    "category": "Accessories",
+    "description": "Full-grain vegetable-tanned leather. Brass hardware. Hand-stitched.",
+    "price": 189,
+    "tag": "New",
+    "image": "Images/Products/ember-leather-tote.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Solstice Fragrance",
+    "category": "Lifestyle",
+    "description": "Cedarwood, amber & black pepper. 50ml Eau de Parfum.",
+    "price": 95,
+    "tag": "Limited",
+    "image": "Images/Products/solstice-fragnance.avif"
+  },
+  {
+    "id": "12",
+    "image": "Images/Products/White-blue-sneakers.png",
+    "category": "Lifestyle",
+    "description": "Handcrafted full-grain leather backpack. Fits 15-inch laptop. Built to last.",
+    "name": "White sneakers with blue streamline",
+    "price": 10,
+    "tag": "New"
+  },
+  {
+    "id": "13",
+    "name": "Slate Notebook",
+    "category": "Stationery",
+    "description": "Thread-bound. 200 ivory pages, 100gsm. Lay-flat binding.",
+    "price": 42,
+    "tag": "Bestseller",
+    "image": "Images/Products/slate-notebook.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Onyx Card Holder",
+    "category": "Accessories",
+    "description": "Matte black aluminium. Holds up to 8 cards. Slim profile.",
+    "price": 68,
+    "tag": "New",
+    "image": "Images/Products/onyx-card-holder.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Max Hero Sneakers",
+    "category": "Lifestyle",
+    "description": "Violet-made, 7cm height from the ground, Size 45, Made with Supreme",
+    "price": 25,
+    "tag": "Limited",
+    "image": "Images/Products/hero-sneaker.png"
+  }
+]
