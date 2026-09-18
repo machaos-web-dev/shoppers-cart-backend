@@ -1,14 +1,23 @@
 require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const Order = require('./models/Order');
 
 const app = express();
+
+
+app.use(cors({
+  origin: ['https://machaos-web-dev.github.io', 'http://localhost:5500']
+}))
+
+
 app.use(express.json());
 
 // --- MongoDB Atlas connection ---
+
 mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log('MongoDB Atlas connected'))
   .catch(err => console.error('MongoDB connection error:', err));
