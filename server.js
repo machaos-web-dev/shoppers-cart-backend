@@ -10,7 +10,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: ['https://machaos-web-dev.github.io', 'http://127.0.0.1:5503']
+  origin: ['https://shoppers-cart.pages.dev', 'http://127.0.0.1:5503']
 }))
 
 
